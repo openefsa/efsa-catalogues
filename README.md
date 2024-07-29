@@ -1,4 +1,20 @@
-# List of EFSA Catalogues
+# EFSA Catalogues
+
+> Kindly note that the EFSA API Portal has been discontinued. We are excited to announce that a new portal, powered by cutting-edge technology, will be launched in 2025. In the meantime, if you need to browse EFSA catalogues, you can still do so even if you do not have a DCF account or an OpenAPI token (*instructions provided below*).
+
+This repository contains the latest versions of the catalogue files in *'.ecf'* format (published on a quarterly basis) to be imported in the Catalogue Browser. This is a customised extension released exclusively by EFSA and contains a catalogue in a special format which can be imported in the Catalogue Browser without the need of logging in with a DCF account or an OpenAPI token.
+
+## Import catalogue
+
+Importing a catalogue in *'.ecf'* format into the Catalogue Browser is done by clicking on:
+
+**File** → **Import Catalogue**
+
+*Please note that, before importing a new catalogue, it is necessary to close the current catalogue.*
+
+After clicking on the '**Import Catalogue**' option, a new window appears that allows the selection of the *'.ecf'* file to import. Click on the '**Open**' button to start the import process. A notification will be displayed when the process is successfully completed.
+
+## List of Catalogues
 
 | Catalogue | Scope Note |
 |-----------|------------|
@@ -71,7 +87,7 @@
 | MDACC | Catalogue which contains method accreditation |
 | MEALTYPE | Catalogue which contains meal type |
 | MPLTYPE | catlogue which contains “Maximum Permitted Level Defined” as DN if numerical or QS if “quantum satis” of the additive added to the food |
-| MTX | FoodEx2$[notUsedHierarchies=pest][defaultHierarchy=report] |
+| MTX | FoodEx2[defaultHierarchy=report] |
 | MTXCHTMP | Catalogue with temporary MTX codes for Chemical Hazard Data Collection |
 | MTXCLS | Matrix categories used to create reports. |
 | MTXTYP | Catalogue which contains matrix type |
@@ -79,7 +95,7 @@
 | NUTS | The catalogue aims to provide an hybrid territorial breakdown combining NUTS codes (for EU countries) and GAUL codes (for not EU countries). The use of the master hierarchy in a data collection is not |
 | PANSWER | Catalogue which contains the person who provided the answer |
 | PARAGRAPH | Catalogue for Pararaph for Zoonoses |
-| PARAM | The PARAM catalogue contains possible analytes (i.e. parameters under analysis). The catalogue contains information about chemical contaminants, pesticides, veterinary medicinal products, additives, flavourings, microorganisms.$[notUsedHierarchies=occGrp1Par,occGrp2Par,occGrp3Par,occGrp4Par,occGrp5Par,occGrp6Par,add,vmpr,fipronil,fdbrnaggrp] |
+| PARAM | The PARAM catalogue contains possible analytes (i.e. parameters under analysis). The catalogue contains information about chemical contaminants, pesticides, veterinary medicinal products, additives, flavourings, microorganisms. |
 | PARAMCLS | Parameter categories used to create reports. |
 | PARAMTYP | Catalogue which contains parameter type |
 | PHYS_ACT_MES | Catalogue which contains physical action measures |
