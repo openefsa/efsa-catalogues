@@ -12,7 +12,7 @@ Importing a catalogue in *'.ecf'* format into the Catalogue Browser is done by c
 
 *Please note that, before importing a new catalogue, it is necessary to close the current catalogue.*
 
-After clicking on the '**Import Catalogue**' option, a new window appears that allows the selection of the *'.ecf'* file to import. Click on the '**Open**' button to start the import process. A notification will be displayed when the process is successfully completed.
+After clicking on the '**Import Catalogue**' option, a new window appears that allows for the selection of the *'.ecf'* file to import. Click on the '**Open**' button to start the import process. A notification will be displayed when the process is successfully completed.
 
 ## List of Catalogues
 
