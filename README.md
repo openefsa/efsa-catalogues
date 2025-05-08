@@ -19,6 +19,7 @@ After clicking on the '**Import Catalogue**' option, a new window appears that a
 | Catalogue | Scope Note |
 |-----------|------------|
 | ABUNDANCE | Units to express population abundance/degree of infestation/desease prevalence. |
+| ACQTYPE | Catalogue which contains categories for the origin of a value used in the Food Composition data collection. |
 | ACTFOR | Catalogue which contains subjective scale used to describe species abundance within a given area. It is normally used within a sampling quadrat to indicate how many organisms there are in a particular habitat when it would not be practical to count them all. |
 | ACTION | Catalogue containing action performed |
 | ADDFOOD | Additives food |
@@ -58,6 +59,7 @@ After clicking on the '**Import Catalogue**' option, a new window appears that a
 | FCMFORMAT | None |
 | FISHCHCONTAM | This catalogue is used in the fish consumption data and corresponds to question Q13 of the questionnaire ("Which of the following statements about chemical contaminants in fish and/or other seafood do you think are correct?"). The catalogue provides information about the volunteer's knowledge regarding specific chemical contaminants found in certain fish and seafood |
 | FOODEX | FOODEX |
+| FOODTYPE | Catalogue which contains the different types of food to be used in the Food Composition data collection. |
 | FUNC | Function of the food additive in the foodstuff |
 | GENDER | Catalogue for gender |
 | GUIDELINE | Catalogue which contains test guideline based on OECD harmonised templates |
@@ -86,12 +88,14 @@ After clicking on the '**Import Catalogue**' option, a new window appears that a
 | MATRIXPART | Type of unit of measure for the host plant |
 | MDACC | Catalogue which contains method accreditation |
 | MEALTYPE | Catalogue which contains meal type |
+| METHODTYPE | Catalogue which contains the type of method used to generate the value, used in the Food Composition data collection. |
 | MPLTYPE | catlogue which contains “Maximum Permitted Level Defined” as DN if numerical or QS if “quantum satis” of the additive added to the food |
 | MTX | FoodEx2[defaultHierarchy=report] |
 | MTXCHTMP | Catalogue with temporary MTX codes for Chemical Hazard Data Collection |
 | MTXCLS | Matrix categories used to create reports. |
 | MTXTYP | Catalogue which contains matrix type |
 | MTYP | Catalogue which contains measure type |
+| NAMEROLE | Catalogue used to distinguish between preferred and further names in the language, including other taxonomic names, in the Food Composition data collection. |
 | NUTS | The catalogue aims to provide an hybrid territorial breakdown combining NUTS codes (for EU countries) and GAUL codes (for not EU countries). The use of the master hierarchy in a data collection is not |
 | PANSWER | Catalogue which contains the person who provided the answer |
 | PARAGRAPH | Catalogue for Pararaph for Zoonoses |
