@@ -1,6 +1,6 @@
 # EFSA Catalogues
 
-> Kindly note that the EFSA API Portal has been discontinued. We are excited to announce that a new portal, powered by cutting-edge technology, will be launched in 2025. In the meantime, if you need to browse EFSA catalogues, you can still do so even if you do not have a DCF account or an OpenAPI token (*instructions provided below*).
+> Kindly note that the EFSA API Portal has been discontinued. We are excited to announce that a new portal, powered by cutting-edge technology, will be launched in 2026. In the meantime, if you need to browse EFSA catalogues, you can still do so even if you do not have a DCF account or an OpenAPI token (*instructions provided below*).
 
 This repository contains the latest versions of the catalogue files in *'.ecf'* format (published on a quarterly basis) to be imported in the Catalogue Browser. This is a customised extension released exclusively by EFSA and contains a catalogue in a special format which can be imported in the Catalogue Browser without the need of logging in with a DCF account or an OpenAPI token.
 
