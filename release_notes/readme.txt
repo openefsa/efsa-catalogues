@@ -1,1 +1,0 @@
-This folder contains the Release Notes of EFSA's catalogues.
